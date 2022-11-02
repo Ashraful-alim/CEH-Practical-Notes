@@ -458,8 +458,4 @@ Add GIF98 and upload and rename .php.jgp
 > Insert Username Password in Website: [blah;insert into login values ('john','pass123'); --]  
 </details>
   
-  
-## CEH Practical Exam Questions:
-https://cutt.ly/ceh-practical-git-udy
-
-Contact Me📨 for In-person Training/Queries: sendmehi@outlook.com
+ 
