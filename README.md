@@ -274,7 +274,7 @@ sqlmap -u "http:domain.com/path.aspx?id=1" --cookie=”PHPSESSID=1tmgthfok042dsl
  
 ```
 * Some links [DVWA:Blind SQL with SQLMap](https://medium.com/hacker-toolbelt/dvwa-1-9-viii-blind-sql-injection-with-sqlmap-ee8d59fbdea7), [DVWA - High Level with SQLMap](https://www.youtube.com/watch?v=IR1JsaSQLMc&ab_channel=Archidote)
-* [Top SQLmap commands] (https://techhyme.com/top-sqlmap-commands-for-exploitation-of-sql-injection/)
+* Top SQLmap commands: https://techhyme.com/top-sqlmap-commands-for-exploitation-of-sql-injection/
   
   
   
